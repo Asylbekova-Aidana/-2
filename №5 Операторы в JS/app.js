@@ -1,6 +1,6 @@
 let user = 'Ivan';
 let number = 12;
-console.log(user*number);
+console.log(user+number);
 
 let incr = 10,
     decr = 10;
@@ -35,3 +35,5 @@ console.log(a || !b);
 console.log(2 * 4  !== 8);
 console.log(2 * 4 == '8');
 console.log(2 * 4 !== '8');
+
+
